@@ -7,7 +7,6 @@
 Check out some real graphs with fake data, all made completely with seaborn and matplotlib.
 
 ![Graph with colorbars](https://github.com/massivejords/massivejords/raw/main/misc_1.png)
-![Graph with legend](https://github.com/massivejords/massivejords/raw/main/misc_2.png)
-![Graph with legend and tile bars](https://github.com/massivejords/massivejords/raw/main/misc_3.png)
+![misc_2](https://user-images.githubusercontent.com/72272198/221002547-85499a32-02bd-4192-8da0-0004e0448103.png)![Graph with legend and tile bars](https://github.com/massivejords/massivejords/raw/main/misc_3.png)
 ![Graph with sequences](https://github.com/massivejords/massivejords/raw/main/misc_4.png)
 
