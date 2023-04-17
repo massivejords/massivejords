@@ -4,8 +4,6 @@
 
 [Demo Jupyter notebooks of leaf area project](https://github.com/massivejords/Agar-plate-leaf-area)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=massivejords&theme=blue-green)
-
 Check out some real graphs with fake data, all made completely with seaborn and matplotlib.
 
 ![Graph with colorbars](https://github.com/massivejords/massivejords/raw/main/misc_1.png)
