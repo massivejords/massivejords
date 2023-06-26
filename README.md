@@ -1,4 +1,4 @@
-## Hi, I'm Jordan! I am an aspiring data scientist/computational biologist/bioinformatician! My goal is to help scientific collaborators make the most of their datasets quickly and easily. Check out some of my projects below!
+## Hi, I'm Jordan! Check out some of my projects below!
 
 ### A. thaliana leaf area detection in OpenCV and PlantCV
 I developed a computer vision algorithm using Python to automatically quantify the size leaves grown on agar plates. Below is [figure 2 from our paper](https://pubmed.ncbi.nlm.nih.gov/36518946/) showing the leaf area detection steps.
